@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+
+
+# Coverage directory used by tools like istanbul
+coverage
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+
+.DS_store
+.vscode
+/dist/
+
+
+*css.d.ts
+
